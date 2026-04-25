@@ -1,0 +1,11 @@
+{
+  "feature_type": "tfidf",
+  "input_field": "cleaned_text",
+  "ngram_range": [
+    1,
+    2
+  ],
+  "best_C": 10.0,
+  "max_features": 50000,
+  "vector_size": 100
+}
