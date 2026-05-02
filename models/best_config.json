@@ -1,6 +1,6 @@
 {
   "feature_type": "tfidf",
-  "input_field": "cleaned_text",
+  "input_field": "content",
   "ngram_range": [
     1,
     2
