@@ -22,15 +22,15 @@ Explainability is added via a FAISS similarity index over the training set, whic
 │   ├── True.csv
 │   ├── train.csv           # Cleaned, stratified training split
 │   └── test.csv            # Cleaned, stratified test split
+├── documents/
+│   ├── project_report      # IEEE-style 7-page detailed report
+│   ├── project_proposal
+│   └── presentation_slides
 ├── models/                 # Saved model artifacts
 │   ├── best_vectorizer.pkl # Fitted TF-IDF vectorizer
 │   ├── best_config.json    # Best feature/hyperparameter config
 │   ├── best_model.pkl      # Best trained model (Logistic Regression)
-    └── best_model_meta.pkl # Best trained model name and it's hyperparameter values
-├── documents/
-│   ├── project_report      # IEEE-style 7-page detailed report
-│   ├── project_proposal
-    └── presentation_slides
+│   └── best_model_meta.pkl # Best trained model name and it's hyperparameter values
 ├── plots/                  # EDA and evaluation visualizations
 ├── task_1_preprocessing.ipynb
 ├── task_2_feature_selection.ipynb
