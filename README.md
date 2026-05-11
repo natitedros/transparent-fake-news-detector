@@ -1,4 +1,4 @@
-# Fake News Detection
+# Explainable Fake News Detection
 
 A machine learning pipeline that classifies news articles as **Fake** or **True** using NLP techniques and explains its prediction, trained on ~45,000 labeled articles.
 
