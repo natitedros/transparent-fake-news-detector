@@ -1,5 +1,7 @@
 # Explainable Fake News Detection
 
+>**Paper:** https://drive.google.com/file/d/1BC8GnP1K7jREjZyzD0rmGj8GkkDnlPV0/view?usp=sharing
+
 A machine learning pipeline that classifies news articles as **Fake** or **True** using NLP techniques and explains its predictions, trained on ~45,000 labeled articles.
 
 ---
